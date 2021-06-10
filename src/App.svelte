@@ -29,7 +29,7 @@
 
 <style>
   main {
-    background-image: url("fondo2020.jpg");
+    background-image: url(../fondo2020.jpg);
     background-size: 100% 100%;
     height: 100%;
   }
